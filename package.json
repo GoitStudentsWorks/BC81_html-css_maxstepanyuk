@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-MayTeam/",
+    "build": "vite build --base=/BC81_html-css_maxstepanyuk/",
     "preview": "vite preview"
   },
   "devDependencies": {
